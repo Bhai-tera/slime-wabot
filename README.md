@@ -14,7 +14,7 @@
 
 ## FOR DEPLOY HEROKU USER
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Adri158/slime-wabot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Bhai-tera/slime-wabot)
 
 ### Instal Buildpack
 * heroku/nodejs
@@ -27,7 +27,7 @@
 
 ## FOR DEPLOY REPLIT USER
 
-[![Run on Replit](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Adri158/slime-wabot/)
+[![Run on Replit](https://repl.it/badge/github/FadliDarmawan/haruno)](https://repl.it/github/Bhai-tera/slime-wabot/)
 ```cmd
 Open Console
 ------------
